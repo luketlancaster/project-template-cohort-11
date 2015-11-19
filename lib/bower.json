@@ -1,0 +1,28 @@
+{
+  "name": "template",
+  "authors": [
+    "Luke Lancaster <luketlancaster@gmail.com>"
+  ],
+  "description": "add yours here",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "handlebars": "~4.0.4",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1",
+    "requirejs": "~2.1.21",
+    "require-handlebars-plugin": "~1.0.0",
+    "q": "~2.0.2"
+  }
+}
